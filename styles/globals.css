@@ -132,6 +132,24 @@ button.blue {
   margin: auto;
 }
 
+button.blue2 {
+  background-color:dodgerblue;
+  color: white;
+  padding: 15px;
+  height:40px;
+  width: 180px;
+  border-radius: 7px;
+  font-size: 16px;
+  border: none;
+  box-shadow: 0 0 20px black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 3px;
+  margin: auto;
+  margin-top:15px;
+}
+
 button.black {
   background-color:black;
   color: white;
