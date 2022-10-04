@@ -128,7 +128,7 @@ for Production</h1>
 
     <Image src="/nextjs.png" height={600} width={900} />
 
-    <button class="blue">Get Started</button>
+    <button class="blue2">Get Started</button>
 
     <div id="form">
       <div id="left">
