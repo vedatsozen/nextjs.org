@@ -126,7 +126,7 @@ for Production</h1>
     <h3>Learn Next Js</h3>
     <h4>Learn Next.js step-by-step and earn points</h4>
 
-    <Image src="/nextjs.jpg" height={600} width={900} />
+    <Image src="/nextjs.png" height={600} width={900} />
 
     <button class="blue">Get Started</button>
 
